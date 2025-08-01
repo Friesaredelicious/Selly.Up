@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Ping Replit
         run: |
-          curl -fsS https://SELLBUY.horekgorek486.repl.co/ || echo "Ping failed"
+          curl -fsS https://e3b9abdd-5e3f-4fc1-b4bd-9a88cc69d150-00-1kl92thxx1eug.spock.replit.dev// || echo "Ping failed"
